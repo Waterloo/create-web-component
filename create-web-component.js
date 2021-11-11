@@ -3,6 +3,9 @@ Creted by JIthin Aji
 Use this to create the folders and files for a basic typescript web component 
  */
 
+#!/usr/bin/env node
+
+
 const fs = require("fs");
 
 let componentName = "";
